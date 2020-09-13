@@ -119,7 +119,7 @@ section h2 {
     }
 
     #mainNav .navbar-brand {
-        color: fade(white, 70%);
+        color: #ffffff;
     }
 
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
@@ -255,7 +255,7 @@ section.download .badges .badge-link img {
 }
 
 section.features .section-heading {
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 
 section.features .section-heading h2 {
@@ -296,19 +296,12 @@ section.features .feature-item i {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: linear-gradient(to left, #7b4397, #dc2430);
+    background: linear-gradient(to left, #ffdb58, #dc2430);
     -webkit-background-clip: text;
-   /* background-clip: text; */
+    /* background-clip: text; */
     -webkit-text-fill-color: transparent;
 }
 
-section.cta {
-    position: relative;
-    padding: 250px 0;
-    background-image: url("../img/bg-cta.jpg");
-    background-position: center;
-    background-size: cover;
-}
 
 section.cta .cta-content {
     position: relative;
@@ -459,3 +452,4 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
     font-size: 11px;
     padding: 15px 45px;
 }
+
