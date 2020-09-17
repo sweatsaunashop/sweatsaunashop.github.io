@@ -166,8 +166,8 @@ header.masthead {
     padding-top: 150px;
     padding-bottom: 100px;
     color: white;
-    background: url("https://lh3.googleusercontent.com/pw/ACtC-3dvnm5aUOcp3MJCY1v9DFj1NNrOBvHvEjV3uUEANJ0Hx-EC-H_ozSkF-5eA9-l5BNi8ZCl_wtTXYD009SHCeYGK-bs52BS7ZL-n7xY50QdRFqJ2zjlw0IUV4d5N5fvILEbD0PAos4Ype6L0eYS8oOs=w67-h100-no"), #7b4397;
-    background: url("https://lh3.googleusercontent.com/pw/ACtC-3dvnm5aUOcp3MJCY1v9DFj1NNrOBvHvEjV3uUEANJ0Hx-EC-H_ozSkF-5eA9-l5BNi8ZCl_wtTXYD009SHCeYGK-bs52BS7ZL-n7xY50QdRFqJ2zjlw0IUV4d5N5fvILEbD0PAos4Ype6L0eYS8oOs=w67-h100-no"), linear-gradient(to left, #ffffff, #eaeaea);
+    background: url("../bg-pattern.png"), #7b4397;
+    background: url("../bg-pattern.png"), linear-gradient(to left, #ffffff, #eaeaea);
 
 
 }
